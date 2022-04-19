@@ -1,0 +1,20 @@
+.cloud {
+    color: rgb(31, 142, 161)
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+.b1 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+.bottom {
+    background-color: aqua;
+    color: purple;
+    text-align: right;
+    text-decoration: underline;
+}

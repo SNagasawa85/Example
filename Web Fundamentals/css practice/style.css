@@ -1,0 +1,26 @@
+h1 {
+    background-color: purple;
+    color: white;
+    font-size: 50px;
+}
+.green {
+    background-color: mediumseagreen;
+    color: white;
+    font-size: 50px;
+}
+#red {
+    background-color: red;
+    color: white;
+    font-size: 50px;
+}
+.wifi {
+    background-color: purple;
+    color:white;
+    font-size:75px;
+}
+.apps {
+    background-color: orange;
+    color: black;
+    font-size: 75px;
+}
+
