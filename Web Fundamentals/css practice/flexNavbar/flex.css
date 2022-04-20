@@ -1,13 +1,14 @@
 .nav {
+    justify-content: flex-end;
+    display: flex;
     border: 2px solid black;
-    display:flex;
     background-color: gray;
-    margin: auto;
 }
 h1 {
     font-size: 16pt;
     color: white;
     font-family: "Roboto", sans-serif;
+    margin-right:auto;
 }
 .nav-links {
     list-style-type: none;
@@ -30,7 +31,4 @@ li [href]{
     background-color: aqua;
     color: white;
     box-shadow: 5px 2px 2px black;    
-}
-ul {
-    margin-left: 60%;
 }
