@@ -1,0 +1,48 @@
+* {
+    font-family: cursive;
+}
+.cont {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.top {
+    width: 900px;
+    height: 100px;
+    background-color: #17a2b8;
+}
+#circle {
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 50px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.box1 {
+    border: 2px solid grey;
+    border-top: none;
+    display: flex;
+}
+h1 {
+    position: relative;
+    top: 25px;
+    font-family: cursive;
+    margin-left: 45px;
+}
+#pin {
+    height: 20px;
+    width: 12px;
+}
+h2 {
+    margin-left: 45px;
+    font-family: cursive;
+    vertical-align: center;
+}
+.info {
+    margin-left: 45px;
+}
+p {
+    margin-left: 45px;
+}
