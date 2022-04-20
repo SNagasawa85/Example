@@ -1,0 +1,27 @@
+.nav {
+    display:flex;
+}
+h1 {
+    font-size: 16pt;
+    font-family: "Roboto", sans-serif;
+}
+.nav-links {
+    list-style-type: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 10pt;
+    display:flex;
+    text-align: center;
+}
+li [href]{
+    padding:10px;
+    text-decoration: none;
+}
+.btn {
+    font-family: "Roboto", sans-serif;
+    background-color: aqua;
+    color: white;
+    box-shadow: 5px 2px 2px black;    
+}
+ul {
+    margin-left:auto;
+}
