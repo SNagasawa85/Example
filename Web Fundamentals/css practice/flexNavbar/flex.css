@@ -1,5 +1,7 @@
 .nav {
     display:flex;
+    background-color: gray;
+    margin: auto;
 }
 h1 {
     font-size: 16pt;
@@ -13,9 +15,13 @@ h1 {
     text-align: center;
 }
 li [href]{
+    color: blanchedalmond;
     padding:10px;
     text-decoration: none;
 }
+#active {
+    color:white;
+    }
 .btn {
     font-family: "Roboto", sans-serif;
     background-color: aqua;
@@ -23,5 +29,5 @@ li [href]{
     box-shadow: 5px 2px 2px black;    
 }
 ul {
-    margin-left:auto;
+    margin-left: 50%;
 }
