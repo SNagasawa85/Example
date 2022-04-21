@@ -1,0 +1,44 @@
+*{
+    border: 0px;
+    margin: 0px;
+    outline: 2px solid red;
+}
+.back {
+    background-color: yellow;
+    height: 400px;
+    width: 600px;
+
+}
+.top {
+    height: 0;
+    width: 0;
+    border-right: 200px solid transparent;
+    border-left: 200px solid transparent;
+    border-top: 200px solid green;
+    flex:1;
+}
+.bottom {
+    height: 0;
+    width: 0;
+    border-right: 200px solid transparent;
+    border-left: 200px solid transparent;
+    border-bottom: 200px solid green;
+    flex:1;
+}
+.left {
+    flex:1;
+    height: 0;
+    width: 0;
+    border-bottom: 185px solid transparent;
+    border-top: 185px solid transparent;
+    border-left: 200px solid black;
+
+}
+.right {
+    flex:1;
+    height: 0;
+    width: 0;
+    border-bottom: 185px solid transparent;
+    border-top: 185px solid transparent;
+    border-right: 200px solid black;
+}
